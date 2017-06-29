@@ -1,0 +1,1 @@
+El circuito se divide en dos partes principales: la sección de potencia y la de interfaz con el usuario.
